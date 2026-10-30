@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# 本地项目数据：语料、用法计数、手法清单、导出件，都不入库
+corpus.json
+usage.json
+moves.json
+review.csv
+dist/
